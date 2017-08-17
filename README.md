@@ -1,6 +1,8 @@
-"# 🙎‍♂️Portfolio-website🙎‍♂️" 
-[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
-[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/swift)
+# " 🙎‍♂️Portfolio-website🙎‍♂️" 
+[![Platform](https://img.shields.io/badge/platforn-brackets-blue.svg?style=flat)](http://brackets.io/)
+[![Language](https://img.shields.io/badge/lenguage-HTML-green.svg?style=flat)](https://www.w3schools.com/html/)
+[![Language](https://img.shields.io/badge/lenguage-css3-yellow.svg?style=flat)](https://www.w3schools.com/html/)
+[![Language](https://img.shields.io/badge/lenguage-jquery-lightblue.svg?style=flat)](https://www.w3schools.com/html/)
 
 This is my portfolio online
 
